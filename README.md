@@ -94,9 +94,9 @@ string-analyzing-tool/
 ---
 
 ## 👤 Author
-Your Name  
+Your Name =Nikita
 Course: BCA  
-College: Your College Name
+College: Rayat bahar university
 
 ---
 
